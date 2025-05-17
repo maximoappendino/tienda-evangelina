@@ -1,6 +1,6 @@
-  =>  Template Name    : Product Grid View in HTML
+  =>  Template Name    : iDESIGN - Interior Design HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/product-grid-view-in-html
+  =>  Template Link    : https://htmlcodex.com/interior-design-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
